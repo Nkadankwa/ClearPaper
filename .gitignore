@@ -1,0 +1,16 @@
+Frontend/node_modules/
+docs/
+# Generated build outputs and local files (preserved, not source)
+Frontend/node_modules/
+Frontend/dist/
+Backend/target/
+Backend/bin/
+.vscode/
+.idea/
+*.iml
+**/.env
+**/.env.*
+!**/.env.example
+*.log
+README.md
+TASKLIST.md
